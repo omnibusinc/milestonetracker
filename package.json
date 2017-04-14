@@ -53,6 +53,7 @@
     "eslint-plugin-jsx": "0.0.2",
     "eslint-plugin-jsx-a11y": "^3.0.2",
     "eslint-plugin-react": "^6.9.0",
-    "ethconnector": "0.0.24"
+    "ethconnector": "0.0.24",
+    "web3": "^0.18.4"
   }
 }
